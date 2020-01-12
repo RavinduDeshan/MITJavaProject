@@ -42,7 +42,6 @@ public class CustomerLogin extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("User Login");
         setBackground(new java.awt.Color(255, 0, 255));
-        setPreferredSize(new java.awt.Dimension(400, 469));
         setResizable(false);
 
         jPanel1.setLayout(null);
@@ -50,12 +49,12 @@ public class CustomerLogin extends javax.swing.JFrame {
         jLabel4.setForeground(new java.awt.Color(255, 0, 255));
         jLabel4.setText("Username");
         jPanel1.add(jLabel4);
-        jLabel4.setBounds(74, 165, 70, 14);
+        jLabel4.setBounds(74, 165, 70, 15);
 
         jLabel5.setForeground(new java.awt.Color(255, 0, 255));
         jLabel5.setText("Password");
         jPanel1.add(jLabel5);
-        jLabel5.setBounds(74, 232, 70, 14);
+        jLabel5.setBounds(74, 232, 70, 15);
         jPanel1.add(jTextField3);
         jTextField3.setBounds(74, 252, 255, 36);
 
@@ -128,13 +127,13 @@ public class CustomerLogin extends javax.swing.JFrame {
         jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/2719387_origback.jpg"))); // NOI18N
         jLabel6.setText("jLabel6");
         jPanel1.add(jLabel6);
-        jLabel6.setBounds(0, 0, 400, 460);
+        jLabel6.setBounds(10, 0, 400, 460);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 414, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

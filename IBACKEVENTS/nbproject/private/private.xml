@@ -3,15 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/P%20D%20R%20Deshan/Documents/NetBeansProjects/IBACKEVENTS/src/model/Service.java</file>
-            <file>file:/C:/Users/P%20D%20R%20Deshan/Documents/NetBeansProjects/IBACKEVENTS/src/model/Customer.java</file>
-            <file>file:/C:/Users/P%20D%20R%20Deshan/Documents/NetBeansProjects/IBACKEVENTS/src/model/Employee.java</file>
-            <file>file:/C:/Users/P%20D%20R%20Deshan/Documents/NetBeansProjects/IBACKEVENTS/src/model/Event.java</file>
-            <file>file:/C:/Users/P%20D%20R%20Deshan/Documents/NetBeansProjects/IBACKEVENTS/src/model/Supplier.java</file>
-            <file>file:/C:/Users/P%20D%20R%20Deshan/Documents/NetBeansProjects/IBACKEVENTS/src/model/Payment.java</file>
-            <file>file:/C:/Users/P%20D%20R%20Deshan/Documents/NetBeansProjects/IBACKEVENTS/src/layout/Customer/CustomerLogin.java</file>
-            <file>file:/C:/Users/P%20D%20R%20Deshan/Documents/NetBeansProjects/IBACKEVENTS/src/util/dbConnection.java</file>
-            <file>file:/C:/Users/P%20D%20R%20Deshan/Documents/NetBeansProjects/IBACKEVENTS/src/ibackevents/IBACKEVENTS.java</file>
+            <file>file:/C:/Users/User/Desktop/New%20folder/IBACKEVENTS/src/layout/Event/EventOrderDashboard.java</file>
+            <file>file:/C:/Users/User/Desktop/New%20folder/IBACKEVENTS/src/layout/Employee/EmployeeDashboard.java</file>
+            <file>file:/C:/Users/User/Desktop/New%20folder/IBACKEVENTS/src/ibackevents/IBACKEVENTS.java</file>
+            <file>file:/C:/Users/User/Desktop/New%20folder/IBACKEVENTS/src/layout/Employee/EmployeeReg.java</file>
+            <file>file:/C:/Users/User/Desktop/New%20folder/IBACKEVENTS/src/layout/Supplier/SupplierReg.java</file>
+            <file>file:/C:/Users/User/Desktop/New%20folder/IBACKEVENTS/src/layout/Customer/CustomerLogin.java</file>
+            <file>file:/C:/Users/User/Desktop/New%20folder/IBACKEVENTS/src/layout/Customer/CustomerDashboard.java</file>
+            <file>file:/C:/Users/User/Desktop/New%20folder/IBACKEVENTS/src/layout/Supplier/SupplierDashboard.java</file>
+            <file>file:/C:/Users/User/Desktop/New%20folder/IBACKEVENTS/src/layout/Customer/CustomerReg.java</file>
         </group>
     </open-files>
 </project-private>
